@@ -52,16 +52,16 @@
   Version: 版本
   Connections: 連線數
   MemoryUsage: 記憶體用量
-  PeakMemoryUsage: 最大記憶體用量
-  Uptime: 運作時間 (天)
+  PeakMemoryUsage: 尖峰記憶體用量
+  Uptime: 運作時間 (天數)
   OneWeek: 1 週
   OneMonth: 1 個月
   ThreeMonths: 3 個月
   SixMonths: 6 個月
   Failures: 失敗
-  DeadJobs: 已失效工作
-  NoDeadJobsFound: 沒有失效的工作
-  Dead: 失效
+  DeadJobs: 已放棄工作
+  NoDeadJobsFound: 沒有放棄的工作
+  Dead: 放棄
   Processes: 行程
   Process: 行程
   Name: 名稱
