@@ -1,0 +1,70 @@
+# elements like %{queue} are variables and should not be translated
+"zh-tw":
+  Dashboard: 控制台
+  Status: 狀態
+  Time: 時間
+  Namespace: 名稱空間
+  Realtime: 即時
+  History: 紀錄
+  Busy: 忙碌
+  Processed: 已處理
+  Failed: 失敗
+  Scheduled: 排程
+  Retries: 重試
+  Enqueued: 佇列
+  Worker: 工作類別
+  LivePoll: 輪詢
+  StopPolling: 停止輪詢
+  Queue: 佇列
+  Class: 類別
+  Job: 工作
+  Arguments: 引數
+  Extras: 額外
+  Started: 開始於
+  ShowAll: 全部顯示
+  CurrentMessagesInQueue: 目前 <span class='title'>%{queue}</span> 佇列中的訊息
+  Delete: 刪除
+  AddToQueue: 加至佇列
+  AreYouSureDeleteJob: 確定要刪除這個工作嗎？
+  AreYouSureDeleteQueue: 確定要刪除佇列 %{queue} 嗎？
+  Queues: 佇列
+  Size: 大小
+  Actions: 操作
+  NextRetry: 下次重試
+  RetryCount: 重試次數
+  RetryNow: 立刻重試
+  LastRetry: 最後重試
+  OriginallyFailed: 失敗於
+  AreYouSure: 確定嗎？
+  DeleteAll: 全部刪除
+  RetryAll: 全部重試
+  NoRetriesFound: 沒有重試的工作
+  Error: 錯誤
+  ErrorClass: 錯誤類別
+  ErrorMessage: 錯誤訊息
+  ErrorBacktrace: 錯誤回溯
+  GoBack: ← 返回
+  NoScheduledFound: 沒有排程的工作
+  When: 預定時間
+  ScheduledJobs: 已排程工作
+  idle: 閒置
+  active: 活躍
+  Version: 版本
+  Connections: 連線數
+  MemoryUsage: 記憶體用量
+  PeakMemoryUsage: 最大記憶體用量
+  Uptime: 運作時間 (天)
+  OneWeek: 1 週
+  OneMonth: 1 個月
+  ThreeMonths: 3 個月
+  SixMonths: 6 個月
+  Failures: 失敗
+  DeadJobs: 已失效工作
+  NoDeadJobsFound: 沒有失效的工作
+  Dead: 失效
+  Processes: 行程
+  Process: 行程
+  Name: 名稱
+  Thread: 執行緒
+  Threads: 執行緒
+  Jobs: 工作
